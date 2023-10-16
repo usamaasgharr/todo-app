@@ -1,3 +1,8 @@
+
+![laptop todo](https://github.com/usamaasgharr/todo-app/assets/118630986/ec13cdde-17ed-4fa3-a014-267ef1e70954)
+
+<h1><a href = "https://react-todo-app1234.netlify.app/" alt= "url" target = '_blank' style = "justify-content : center;">Live Demo</a></h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
